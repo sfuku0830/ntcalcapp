@@ -39,8 +39,11 @@
 ## フォルダ構成（例）
 ntcalcapp/
 ├── columnMap.php ← 栄養素マッピングロジック
+
 ├── seibun2020/ ← 食品成分データ（CSV）
+
 ├── index.html ← メイン画面（予定）
+
 └── style.css ← スタイル定義（予定）
 
 ---
