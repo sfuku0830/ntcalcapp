@@ -1,0 +1,21 @@
+$columnMap = [
+    'hinban'       => '品番' //食品ごとのID
+    'Foodname'     => '食品名',
+    'ENERC_KCAL'   => 'エネルギー[kcal]',
+    'PROTCAA'      => 'たんぱく質[g]',
+    'FATNLEA'      => '脂質[g]',
+    'CHOAVL'       => '炭水化物[g]',
+    'FIB-'         => '食物繊維[g]',
+    'NA'           => 'ナトリウム[mg]',
+    'K'            => 'カリウム[mg]',
+    'CA'           => 'カルシウム[mg]',
+    'FE'           => '鉄[mg]',
+    'ZN'           => '亜鉛[mg]',              
+    'CHOLE'        => 'コレステロール[mg]',   
+    'VITC'         => 'ビタミンC[mg]',
+    'THIA'         => 'ビタミンB1[mg]',
+    'RIBF'         => 'ビタミンB2[mg]',
+    'VITD'         => 'ビタミンD[μg]',
+    'VITA_RAE'     => 'ビタミンA[μgRAE]',
+    'FOL'          => '葉酸[μg]',
+];
